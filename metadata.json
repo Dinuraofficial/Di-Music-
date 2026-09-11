@@ -1,0 +1,6 @@
+{
+  "name": "DiMusic",
+  "description": "DiMusic is a sleek, minimalist YouTube Music client featuring real artist picks, 3D flip lyrics player, playback queue, and mixer settings.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
