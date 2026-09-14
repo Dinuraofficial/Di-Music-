@@ -133,7 +133,7 @@ Available throughout the app:
 
 <h2>Installation</h2>
 <br>
-<a href="https://github.com/Dinuraofficial/Di-Music-/releases/download/V0.0.2/v0.0.2.apk">
+<a href="https://github.com/Dinuraofficial/Di-Music-/releases/download/V0.0.2/V.0.0.2.apk">
   <img src="https://raw.githubusercontent.com/machiav3lli/oandbackupx/034b226cea5c1b30eb4f6a6f313e4dadcbb0ece4/badge_github.png" alt="Get it on GitHub" height="80" />
 </a>
 
@@ -180,3 +180,11 @@ This project is **not** affiliated with, funded by, authorized by, endorsed by, 
 YouTube, YouTube Music, Google, Android, and other trademarks belong to their respective owners.
 
 Di Music does not host or store media files. Users are responsible for complying with applicable local laws and the terms of service of the platforms they access.
+
+
+
+
+
+
+
+
