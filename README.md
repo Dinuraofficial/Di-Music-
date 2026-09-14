@@ -155,3 +155,26 @@ Available across Search, Quick Picks, Song List, Artist Page, and Album View:
 <a href="https://github.com/Dinuraofficial/Di-Music-/releases/download/V0.0.2/V.0.0.2.apk">
   <img src="https://raw.githubusercontent.com/machiav3lli/oandbackupx/034b226cea5c1b30eb4f6a6f313e4dadcbb0ece4/badge_github.png" alt="Get it on GitHub" height="80" />
 </a>
+<br />
+
+## 👏 Credits & Acknowledgements
+
+**Developer:** Dinura Nikalansuriya
+
+**Acknowledgements:**
+
+* Special thanks to the open-source community and the developers of the libraries and technologies that made this project possible.
+
+<br />
+<hr />
+<br />
+
+## 📜 Disclaimer
+
+Di Music is an independent, unofficial open-source application.
+
+This project is **not** affiliated with, funded by, authorized by, endorsed by, or in any way officially associated with YouTube, YouTube Music, Google LLC, or any of their subsidiaries or affiliates.
+
+YouTube, YouTube Music, Google, Android, and other trademarks belong to their respective owners.
+
+Di Music does not host or store media files. Users are responsible for complying with applicable local laws and the terms of service of the platforms they access.
