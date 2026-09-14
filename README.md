@@ -23,7 +23,7 @@
   <img src="./screenshots/5.png" width="30%" alt="Lock Screen Controls"/>
   <img src="./screenshots/6.png" width="30%" alt="Notification Controls"/>
 
-  <H1> Poddk hitapam thava screen shot gahana gaman </H1>
+  <H1> still looking for a good device to take some ss.... btw why are y here i never invited u here </H1>
 </p>
 
 <br />
@@ -118,6 +118,7 @@ Available throughout the app:
 * Release date and track count
 * Currently playing track highlight
 <br />
+
 ### ⚙️ Settings & Account
 * Google / YouTube account login
 * Account status
