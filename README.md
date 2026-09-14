@@ -1,8 +1,34 @@
-# DiMusic 🎵
+<div align="center">
 
-A sleek, modern, and feature-packed YouTube Music client for Android, built with Kotlin and Jetpack Compose.
+  <!-- Di Music Logo -->
+  <img src="https://github.com/Dinuraofficial/Di-Music-/blob/main/C02487F5-1FC3-46B9-812B-B313AEEBC9FE.png" width="128" height="128" alt="Di Music Logo"/>
 
----
+  <h1>Di Music</h1>
+
+  <p><b>An Android music application for streaming music from YouTube Music</b></p>
+
+</div>
+
+<br />
+<hr />
+<br />
+
+<!-- Screenshots Grid -->
+<p align="center">
+  <img src="./screenshots/1.png" width="30%" alt="Quick Picks"/>
+  <img src="./screenshots/2.png" width="30%" alt="Search"/>
+  <img src="./screenshots/3.png" width="30%" alt="Artist and Album"/>
+  <br /><br />
+  <img src="./screenshots/4.png" width="30%" alt="Full Player"/>
+  <img src="./screenshots/5.png" width="30%" alt="Lock Screen Controls"/>
+  <img src="./screenshots/6.png" width="30%" alt="Notification Controls"/>
+
+  <H1> still looking for a good device to take some ss.... btw why are y here i never invited u here </H1>
+</p>
+
+<br />
+<hr />
+<br />
 
 ## 🌟 Key Features & Options Overview
 
@@ -123,3 +149,9 @@ Available across Search, Quick Picks, Song List, Artist Page, and Album View:
 - **Image Loading**: Coil
 - **Architecture**: MVVM with Kotlin Coroutines & StateFlow
 - **Persistence**: SharedPreferences / Local Cache
+<h2>Installation</h2>
+<br>
+<a href="https://github.com/Dinuraofficial/Di-Music-/releases/download/V0.0.2/v0.0.2.apk">
+<a href="https://github.com/Dinuraofficial/Di-Music-/releases/download/V0.0.2/V.0.0.2.apk">
+  <img src="https://raw.githubusercontent.com/machiav3lli/oandbackupx/034b226cea5c1b30eb4f6a6f313e4dadcbb0ece4/badge_github.png" alt="Get it on GitHub" height="80" />
+</a>
